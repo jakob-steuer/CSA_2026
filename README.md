@@ -43,4 +43,4 @@ Python 3.9+ on Linux or macOS. On Windows, Parts 1 and 5 (multiprocessing) are b
 
 ## Contact
 
-Jakob Steuer · FHNW School of Life Sciences, Institute for Chemistry and Bioanalytics · jakob.steuer@fhnw.ch
+Jakob Steuer · FHNW School of Life Sciences, Institute for Chemistry and Bioanalytics ·
